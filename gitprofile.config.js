@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: '', //TODO: Your GitHub org/user name. (Required)
+    username: 'dylanyuen0406', //TODO: Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 4, // How many projects to display.
     exclude: {
@@ -11,18 +11,18 @@ const config = {
     },
   },
   scratch: {
-    username: '', //TODO: Your Scratch username. (Required)
-    limit: 8, // How many projects to display; maximum 20
+    username: 'tym_dylan', //TODO: Your Scratch username. (Required)
+    limit: 20, // How many projects to display; maximum 20
     sortBy: 'date', // date | views | remixes
-    corsProxy: "" //TODO: Enter your CORS Proxy here
+    corsProxy: "https://apicors-scratch-git-main-chicke-winggggggggs-projects.vercel.app/" //TODO: Enter your CORS Proxy here
   },
   social: { //TODO: Add in Socials
-    linkedin: '',
-    facebook: '',
-    instagram: '',
-    tiktok: '',
-    email: '',
-    website: '',
+    //linkedin: '',
+    //facebook: '',
+    //instagram: '',
+    //tiktok: '',
+    email: 'dylanyuentym@gmail.com',
+    //website: '',
     // dev: '',
     // twitter: '',
     // mastodon: '',
@@ -77,16 +77,16 @@ const config = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Compassvale Primary School',
+      degree: 'PSLE',
+      from: '2018',
+      to: '2023',
     },
     {
       institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      degree: 'O Level',
+      from: '2024',
+      to: '2027',
     },
   ],
 
@@ -98,7 +98,7 @@ const config = {
         'This project presents a Flappy Bird-inspired game designed for the Micro:bit v2 platform. It is constructed using for loops, conditional statements, functions, and lists to create an entertaining and interactive gaming experience.',
       imageUrl:
         'https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png',
-      link: 'https://makecode.microbit.org/_8hTHCD4ax7ty',
+      link: 'https://makecode.microbit.org/_Kjf6D7JLh6Rw',
     },
     {
       title: 'Microbit Space Invaders',
